@@ -1,0 +1,1 @@
+- 2026-11-03: Anonymous DELETE /recipes/1 → 204, recipe 1 no longer exists (GET /recipes/1 → 404).
